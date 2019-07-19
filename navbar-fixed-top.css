@@ -1,0 +1,40 @@
+body {
+	padding-top: 50px;
+}
+
+.content {
+	padding: 5px;
+}
+
+.back {
+	background-color: #f8f8f8;
+}
+
+.back-dark {
+	background-color: #363e4d;
+	color: #fff;
+}
+
+.white {
+	color: #fff;
+}
+
+@media only screen and (max-width: 500px) {
+	.container {
+		width: 100%;
+		padding-left:5%;
+		padding-right:5%;
+	}
+}
+
+@media only screen and (min-width: 500px) {
+	.container {
+		width: 100%;
+		padding-left:20%;
+		padding-right:20%;
+	}
+}
+
+#personal_img {
+	border-radius: 10px 10px 10px 10px;
+}
