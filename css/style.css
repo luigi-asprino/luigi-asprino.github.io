@@ -1,0 +1,11 @@
+.btn-bibtex {
+    color: #fff;
+    background-color: #bd5d38;
+    border-color: #bd5d38;
+    padding: .1rem .1rem;
+	font-size: 0.6rem;
+}
+
+.btn-year {
+	color: #bd5d38;
+}
