@@ -19,6 +19,33 @@
 				"doi": null,
 				"bibtex": "@inproceedings{Asprino2019b, \n author=\"Asprino, Luigi and Beek, Wouter and Ciancarini, Paolo and van Harmelen, Frank and Presutti, Valentina\", \n editor=\"Ghidini, Chiara and Hartig, Olaf and Maleshkova, Maria and Svatek, Vojtech and Cruz, Isabel and Hogan, Aidan and Song, Jie and Lefrancois, Maxime and Gandon, Fabien\", \n bookTitle=\"Proceedings of the 18th International Semantic Web Conference (ISWC 2019)\", \n title=\"Observing LOD using Equivalent Set Graphs: it is mostly flat and sparsely linked\", \n year=\"2019\", \n publisher=\"Springer\",\n pages=\"(to appear)\"}",
 				"url": "https://arxiv.org/abs/1906.08097"
+			},
+			{
+				"id": "Asprino2019c",
+				"authors": "<b>L.Asprino</b>, W.Beek, P.Ciancarini, F. van Harmelen and V.Presutti",
+				"title": "Triplifying Equivalence Set Graphs",
+				"inField": "Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019)",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019c, \n author=\"Asprino, Luigi and Beek, Wouter and Ciancarini, Paolo and van Harmelen, Frank and Presutti, Valentina\", \n editor=\"Mari Carmen Su{\\'{a}}rez{-}Figueroa and Gong Cheng and Anna Lisa Gentile and Christophe Gu{\\'{e}}ret and Maria Keet and Abraham Bernstein\", \n bookTitle=\"Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019\", \n title=\"Triplifying Equivalence Set Graphs\", \n year=\"2019\", \n publisher=\"CEUR\",\n pages=\"(to appear)\"}",
+				"url": null
+			},
+			{
+				"id": "Asprino2019d",
+				"authors": "<b>L.Asprino</b>, V.A. Carriero, A. Gangemi, L. Marinucci, A.G. Nuzzolese and  V.Presutti",
+				"title": "Atlas Of Paths: A Formal Ontology of Historical Pathways in Italy",
+				"inField": "Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019)",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019d, \n author=\"Asprino, Luigi and Carriero, Valentina Anita and Gangemi, Aldo and Marinucci, Ludovica and Nuzzolese, Andrea Giovanni and Presutti, Valentina\", \n editor=\"Mari Carmen Su{\\'{a}}rez{-}Figueroa and Gong Cheng and Anna Lisa Gentile and Christophe Gu{\\'{e}}ret and Maria Keet and Abraham Bernstein\", \n bookTitle=\"Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019\", \n title=\"Atlas Of Paths: A Formal Ontology of Historical Pathways in Italy\", \n year=\"2019\", \n publisher=\"CEUR\",\n pages=\"(to appear)\"}",
+				"url": null
+			},
+			{
+				"id": "Asprino2019e",
+				"authors": "<b>L.Asprino</b>,  A. Gangemi, A.G. Nuzzolese,  V.Presutti, Reforgiato Recupero, Diego and Russo Alessandro",
+				"title": "Robotica Sociale e Tecnologie Semantiche per l'Invecchiamento Attivo",
+				"inField": "Ital-IA Convegno Nazionale CINI sull'Intelligenza Artificiale",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019e, \n author=\"Asprino, Luigi and  Gangemi, Aldo and  Nuzzolese, Andrea Giovanni and Presutti, Valentina and Reforgiato Recupero, Diego\",  \n bookTitle=\"Ital-IA Convegno Nazionale CINI sull'Intelligenza Artificiale\", \n title=\"Robotica Sociale e Tecnologie Semantiche per l'Invecchiamento Attivo\", \n year=\"2019\",\n howpublished=\"\\url{http://www.ital-ia.it/submission/232/paper}\"}",
+				"url": "http://www.ital-ia.it/submission/232/paper"
 			}
 		]
 	},
