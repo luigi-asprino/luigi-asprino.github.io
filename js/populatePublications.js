@@ -66,7 +66,7 @@ function addPub(id, num, aurhorsListHTML, title, inField, doi, bibtex, url) {
 			+ id + "\">bibtex</button></p>";
 
 	s = s + "<div class=\"collapse\" id=\"collapseBib" + id
-			+ "\"><div class=\"card card-body\">" + bibtex + "</div></div>";
+			+ "\"><div class=\"card card-body\">" + bibtex + "</div></div><br/>";
 
 	return s;
 
