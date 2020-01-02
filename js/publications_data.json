@@ -46,6 +46,15 @@
 				"doi": null,
 				"bibtex": "@inproceedings{Asprino2019e, \n author=\"Asprino, Luigi and  Gangemi, Aldo and  Nuzzolese, Andrea Giovanni and Presutti, Valentina and Reforgiato Recupero, Diego\",  \n bookTitle=\"Ital-IA Convegno Nazionale CINI sull'Intelligenza Artificiale\", \n title=\"Robotica Sociale e Tecnologie Semantiche per l'Invecchiamento Attivo\", \n year=\"2019\",\n howpublished=\"\\url{http://www.ital-ia.it/submission/232/paper}\"}",
 				"url": "http://www.ital-ia.it/submission/232/paper"
+			},
+			{
+				"id": "Asprino2019f",
+				"authors": "<b>L.Asprino</b>, P.Ciancarini and V.Presutti",
+				"title": "Analysing Knowledge Domains that Emerge from Linked Open Data",
+				"inField": "Atti della Conferenza GARR 2019 - Selected Papers",
+				"doi": "10.26314/GARR-Conf19-proceedings-01",
+				"bibtex": "@inproceedings{Asprino2019f, \n author=\"Asprino, Luigi and  Ciancarini, Paolo and Presutti, Valentina\",  \n bookTitle=\"Atti della Conferenza GARR 2019 - Selected Papers\", \n title=\"Analysing Knowledge Domains that Emerge from Linked Open Data\", \n year=\"2019\",\n howpublished=\"\\url{https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2019/4946-selected-papers-conferenza-2019-01-asprino/file}\"}",
+				"url": "https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2019/4946-selected-papers-conferenza-2019-01-asprino/file"
 			}
 		]
 	},
