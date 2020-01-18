@@ -1,4 +1,62 @@
-[
+[	{
+		"year": "2020",
+		"publications": [
+			{
+				"id": "Asprino2020a",
+				"authors": "<b>L.Asprino</b>, A. Budano, M. Canciani, L. Carbone, M. Ceriani, L. Marinucci, M. Mecella, F. Meschini, M. Mongelli, A. G. Nuzzolese, V. Presutti, M. Puccini, M. Saccone",
+				"title": "EcoDigit Ecosistema Digitale per la fruizione e la valorizzazione dei beni e delle attività culturali del Lazio",
+				"inField": " Proceedings of the IX Convegno Annuale AIUCD (Poster)",
+				"doi": null,
+				"bibtex": "@Inbook{Asprino2019, \n author=\"Asprino, Luigi and Budano, Antonio and Canciani, Marco and Carbone, Luisa and Ceriani, Miguel and Marinucci, Ludovica and Meschini, Federico and Mongelli, Maria Luisa and Nuzzolese, Andrea Giovanni and Presutti, Valentina and Puccini, Marco and Saccone, Mauro\", \n bookTitle=\" Proceedings of the IX Convegno Annuale AIUCD (Poster)\", \n title=\"EcoDigit Ecosistema Digitale per la fruizione e la valorizzazione dei beni e delle attività culturali del Lazio\", \n year=\"2020\"}",
+				"url": "https://doi.org/10.1007/978-3-030-05249-2_6"
+			},
+			{
+				"id": "Asprino2019b",
+				"authors": "<b>L.Asprino</b>, W.Beek, P.Ciancarini, F. van Harmelen and V.Presutti",
+				"title": "Observing LOD using Equivalent Set Graphs: it is mostly flat and sparsely linked",
+				"inField": "Proceedings of the 18th International Semantic Web Conference (ISWC 2019)",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019b, \n author=\"Asprino, Luigi and Beek, Wouter and Ciancarini, Paolo and van Harmelen, Frank and Presutti, Valentina\", \n editor=\"Ghidini, Chiara and Hartig, Olaf and Maleshkova, Maria and Svatek, Vojtech and Cruz, Isabel and Hogan, Aidan and Song, Jie and Lefrancois, Maxime and Gandon, Fabien\", \n bookTitle=\"Proceedings of the 18th International Semantic Web Conference (ISWC 2019)\", \n title=\"Observing LOD using Equivalent Set Graphs: it is mostly flat and sparsely linked\", \n year=\"2019\", \n publisher=\"Springer\",\n pages=\"(to appear)\"}",
+				"url": "https://arxiv.org/abs/1906.08097"
+			},
+			{
+				"id": "Asprino2019c",
+				"authors": "<b>L.Asprino</b>, W.Beek, P.Ciancarini, F. van Harmelen and V.Presutti",
+				"title": "Triplifying Equivalence Set Graphs",
+				"inField": "Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019)",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019c, \n author=\"Asprino, Luigi and Beek, Wouter and Ciancarini, Paolo and van Harmelen, Frank and Presutti, Valentina\", \n editor=\"Mari Carmen Su{\\'{a}}rez{-}Figueroa and Gong Cheng and Anna Lisa Gentile and Christophe Gu{\\'{e}}ret and Maria Keet and Abraham Bernstein\", \n bookTitle=\"Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019\", \n title=\"Triplifying Equivalence Set Graphs\", \n year=\"2019\", \n publisher=\"CEUR\"}",
+				"url": "http://ceur-ws.org/Vol-2456/paper66.pdf"
+			},
+			{
+				"id": "Asprino2019d",
+				"authors": "<b>L.Asprino</b>, V.A. Carriero, A. Gangemi, L. Marinucci, A.G. Nuzzolese and  V.Presutti",
+				"title": "Atlas Of Paths: A Formal Ontology of Historical Pathways in Italy",
+				"inField": "Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019)",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019d, \n author=\"Asprino, Luigi and Carriero, Valentina Anita and Gangemi, Aldo and Marinucci, Ludovica and Nuzzolese, Andrea Giovanni and Presutti, Valentina\", \n editor=\"Mari Carmen Su{\\'{a}}rez{-}Figueroa and Gong Cheng and Anna Lisa Gentile and Christophe Gu{\\'{e}}ret and Maria Keet and Abraham Bernstein\", \n bookTitle=\"Proceedings of the ISWC 2019 Posters & Demonstrations, Industry, and Outrageous Ideas Tracks co-located with 18th International Semantic Web Conference (ISWC 2019\", \n title=\"Atlas Of Paths: A Formal Ontology of Historical Pathways in Italy\", \n year=\"2019\", \n publisher=\"CEUR\"}",
+				"url": "http://ceur-ws.org/Vol-2456/paper39.pdf"
+			},
+			{
+				"id": "Asprino2019e",
+				"authors": "<b>L.Asprino</b>,  A. Gangemi, A.G. Nuzzolese,  V.Presutti, Reforgiato Recupero, Diego and Russo Alessandro",
+				"title": "Robotica Sociale e Tecnologie Semantiche per l'Invecchiamento Attivo",
+				"inField": "Ital-IA Convegno Nazionale CINI sull'Intelligenza Artificiale",
+				"doi": null,
+				"bibtex": "@inproceedings{Asprino2019e, \n author=\"Asprino, Luigi and  Gangemi, Aldo and  Nuzzolese, Andrea Giovanni and Presutti, Valentina and Reforgiato Recupero, Diego\",  \n bookTitle=\"Ital-IA Convegno Nazionale CINI sull'Intelligenza Artificiale\", \n title=\"Robotica Sociale e Tecnologie Semantiche per l'Invecchiamento Attivo\", \n year=\"2019\",\n howpublished=\"\\url{http://www.ital-ia.it/submission/232/paper}\"}",
+				"url": "http://www.ital-ia.it/submission/232/paper"
+			},
+			{
+				"id": "Asprino2019f",
+				"authors": "<b>L.Asprino</b>, P.Ciancarini and V.Presutti",
+				"title": "Analysing Knowledge Domains that Emerge from Linked Open Data",
+				"inField": "Atti della Conferenza GARR 2019 - Selected Papers",
+				"doi": "10.26314/GARR-Conf19-proceedings-01",
+				"bibtex": "@inproceedings{Asprino2019f, \n author=\"Asprino, Luigi and  Ciancarini, Paolo and Presutti, Valentina\",  \n bookTitle=\"Atti della Conferenza GARR 2019 - Selected Papers\", \n title=\"Analysing Knowledge Domains that Emerge from Linked Open Data\", \n year=\"2019\",\n howpublished=\"\\url{https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2019/4946-selected-papers-conferenza-2019-01-asprino/file}\"}",
+				"url": "https://www.garr.it/it/chi-siamo/documenti/selected-papers/selected-papers-conferenza-2019/4946-selected-papers-conferenza-2019-01-asprino/file"
+			}
+		]
+	},
 	{
 		"year": "2019",
 		"publications": [
