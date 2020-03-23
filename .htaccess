@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^securityLab$ https://www.dropbox.com/s/6zck9n37h4o2pmi/securityLab.txt?dl=0 [R=303,L]
