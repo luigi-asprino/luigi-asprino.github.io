@@ -9,6 +9,15 @@
 				"doi": null,
 				"bibtex": "@Inbook{Asprino2019, \n author=\"Asprino, Luigi and Budano, Antonio and Canciani, Marco and Carbone, Luisa and Ceriani, Miguel and Marinucci, Ludovica and Meschini, Federico and Mongelli, Maria Luisa and Nuzzolese, Andrea Giovanni and Presutti, Valentina and Puccini, Marco and Saccone, Mauro\", \n bookTitle=\" Proceedings of the IX Convegno Annuale AIUCD (Poster)\", \n title=\"EcoDigit Ecosistema Digitale per la fruizione e la valorizzazione dei beni e delle attività culturali del Lazio\", \n year=\"2020\"}",
 				"url": "https://convegni.unicatt.it/aiucd-Asprino_et_al.pdf"
+			},
+			{
+				"id": "Asprino2020b",
+				"authors": "<b>L.Asprino</b>, P. Ciancarini, A. G. Nuzzolese, V. Presutti and A.Russo",
+				"title": "A Reference Software Architecture for Social Robots",
+				"inField": "arXiv preprint",
+				"doi": null,
+				"bibtex": "@article{Asprino2020b, \n author=\"Asprino, Luigi and Ciancarini, Paolo and Nuzzolese, Andrea Giovanni and Presutti, Valentina and Russo, Alessandro\", \n journal=\"arXiv preprint\", \n title=\"A Reference Software Architecture for Social Robots\", \n year=\"2020\"}",
+				"url": "https://arxiv.org/abs/2007.04933"
 			}
 		]
 	},
