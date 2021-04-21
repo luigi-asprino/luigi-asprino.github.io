@@ -8,7 +8,7 @@ $.ajaxSetup({
 $.getJSON("./js/publications_data.json", function(data) {
 
 	for ( var k in data) {
-		
+
 		var accordionElem = document.getElementById("accordionPub");
 		var cardElement = document.createElement('div');
 		cardElement.setAttribute('class', 'card');
@@ -35,7 +35,12 @@ function getCollapseDiv(year, pubs) {
 			+ "\" data-parent=\"#accordionPub\"> <div class=\"card-body\">";
 
 	pubs.forEach(function(e, i) {
-		s = s + addPub(e.id, i+1, e.authors, e.title, e.inField,e.doi,e.bibtex,e.url);
+		if(!("book" in e) || e.book == null){
+				s = s + addPub(e.id, i+1, e.authors, e.title, e.inField,e.doi,e.bibtex,e.url,false);
+		}else{
+			s = s + addPub(e.id, i+1, e.authors, e.title, e.inField,e.doi,e.bibtex,e.url,true);
+		}
+
 	});
 
 	s = s + "</div></div>";
@@ -43,7 +48,7 @@ function getCollapseDiv(year, pubs) {
 	return s;
 }
 
-function addPub(id, num, aurhorsListHTML, title, inField, doi, bibtex, url) {
+function addPub(id, num, aurhorsListHTML, title, inField, doi, bibtex, url, book) {
 	var s = "<p>" + num + ". " + aurhorsListHTML;
 
 	if (url != null) {
@@ -52,7 +57,12 @@ function addPub(id, num, aurhorsListHTML, title, inField, doi, bibtex, url) {
 		s = s + ". " + title + ". ";
 	}
 
-	s = s + " In: <i>" + inField + "</i>";
+	if(!book){
+			s = s + " In: <i>" + inField + "</i>";
+	}else{
+			s = s + " <i>" + inField + "</i>";
+	}
+
 
 	if (doi != null) {
 		s = s + " DOI: <a href=\"https://doi.org/" + doi + "\">" + doi
