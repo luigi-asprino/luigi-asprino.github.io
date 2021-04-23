@@ -22,7 +22,7 @@
 			{
 				"id": "Asprino2020c",
 				"authors": "<b>L.Asprino</b>",
-				"title": "A Reference Software Architecture for Social Robots",
+				"title": "Engineering Background Knowledge for Social Robots",
 				"inField": "Studies on the Semantic Web. IOS Press",
 				"doi": "10.3233/SSW48",
 				"bibtex": "@article{Asprino2020c, \n author=\"Asprino, Luigi\", \n journal=\"arXiv preprint\", \n title=\"Engineering Background Knowledge for Social Robots\",\n series    = {Studies on the Semantic Web}, \n volume    = {48}, \n publisher = {{IOS} Press},\n doi       = {10.3233/SSW48}, \n isbn      = {978-1-64368-108-5}, \n year=\"2020\"}",
