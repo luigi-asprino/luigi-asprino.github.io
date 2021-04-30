@@ -41,7 +41,7 @@
 				"title": "Engineering Background Knowledge for Social Robots",
 				"inField": "Studies on the Semantic Web. IOS Press",
 				"doi": "10.3233/SSW48",
-				"bibtex": "@article{Asprino2020c, \n author=\"Asprino, Luigi\", \n journal=\"arXiv preprint\", \n title=\"Engineering Background Knowledge for Social Robots\",\n series    = {Studies on the Semantic Web}, \n volume    = {48}, \n publisher = {{IOS} Press},\n doi       = {10.3233/SSW48}, \n isbn      = {978-1-64368-108-5}, \n year=\"2020\"}",
+				"bibtex": "@book{Asprino2020c,	author = {Asprino, Luigi},	date-added = {2021-04-30 19:45:42 +0200},	date-modified = {2021-04-30 19:45:42 +0200},	doi = {10.3233/SSW48},	isbn = {978-1-64368-108-5},	publisher = {{IOS} Press},	series = {Studies on the Semantic Web},	title = {Engineering Background Knowledge for Social Robots},	volume = {48},	year = {2020}}",
 				"url": "http://amsdottorato.unibo.it/9020/1/asprino_luigi_tesi.pdf",
 				"book": true
 			}
