@@ -3,6 +3,15 @@
 			"year": "2021",
 			"publications": [
 				{
+					"id": "Daga2021b",
+					"authors": "E. Daga, <b>L. Asprino</b>, P. Mulholland, A. Gangemi",
+					"title": "Facade-X: an opinionated approach to SPARQL anything",
+					"inField": "  Semantics 2021 EU",
+					"doi": null,
+					"bibtex": "@inproceedings{Daga2021b, \n author=\"Daga, Enrico and Asprino, Luigi and Mulholland, Paul and Gangemi, Aldo\", \n bookTitle=\" Semantics 2021 EU\", \n title=\"Facade-X: an opinionated approach to SPARQL anything\", \n year=\"2021\"}",
+					"url": "https://arxiv.org/abs/2106.02361"
+				},
+				{
 					"id": "Daga2021",
 					"authors": "E. Daga and <b>L.Asprino</b>",
 					"title": "The SPARQL Anything project",
