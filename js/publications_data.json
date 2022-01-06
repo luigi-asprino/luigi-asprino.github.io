@@ -3,6 +3,15 @@
 			"year": "2021",
 			"publications": [
 				{
+					"id": "Daga2021c",
+					"authors": "E. Daga, <b>L. Asprino</b>, R. Damiano, B. Diaz Agudo, A. Gangemi, T. Kuflik, A. Lieto, A. M. Marras, D. Martinez Pandiani, P. Mulholland, S. Peroni, S. Pescarin, A. Wecker",
+					"title": "Integrating citizen experiences in cultural heritage archives: requirements, state of the art, and challenges",
+					"inField": "  Journal on Computing and Cultural Heritage (JOCCH)",
+					"doi": "10.5281/zenodo.5155956",
+					"bibtex": "@article{Daga2021c, title = {Integrating citizen experiences in cultural heritage archives: requirements, state of the art, and challenges}, author = {Enrico Daga and Luigi Asprino and Rossana Damiano and Belen Diaz Agudo and Aldo Gangemi and Tsvi Kuflik and Antonio Lieto and Anna Maria Marras and Delfina Martinez Pandiani and Paul Mulholland and Silvio Peroni and Sofia Pescarin and Alan Wecker and Marilena Daquino}, year = {2021}, pages = {(In Press)}, journal = {Journal on Computing and Cultural Heritage (JOCCH)} }",
+					"url": "https://doi.org/10.5281/zenodo.5155956"
+				},
+				{
 					"id": "Daga2021b",
 					"authors": "E. Daga, <b>L. Asprino</b>, P. Mulholland, A. Gangemi",
 					"title": "Facade-X: an opinionated approach to SPARQL anything",
