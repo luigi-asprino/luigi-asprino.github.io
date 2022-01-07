@@ -1,7 +1,56 @@
-[
+[	{
+		"year": "2022",
+		"publications": [
+			{
+				"id": "Asprino2022",
+				"authors": "<b>L.Asprino</b>, P. Ciancarini, A. G. Nuzzolese, V. Presutti and A.Russo",
+				"title": "A reference architecture for social robots",
+				"inField": "  Journal of Web Semantics (JoWS)",
+				"doi": "10.1016/j.websem.2021.100683",
+				"bibtex": "@article{Asprino2022, title = {A reference architecture for social robots}, journal = {Journal of Web Semantics}, volume = {72}, pages = {100683}, year = {2022}, issn = {1570-8268}, doi = {https://doi.org/10.1016/j.websem.2021.100683}, author = {Luigi Asprino and Paolo Ciancarini and Andrea Giovanni Nuzzolese and Valentina Presutti and Alessandro Russo} } ",
+				"url": "https://doi.org/10.1016/j.websem.2021.100683"
+			}
+		]
+	},
 	{
 			"year": "2021",
 			"publications": [
+				{
+					"id": "Asprino2021a",
+					"authors": "<b>L. Asprino</b>, V. A. Carriero, V. Presutti",
+					"title": "Extraction of common conceptual components from multiple ontologies",
+					"inField": "  Proceedings of the 11th on Knowledge Capture Conference (KCAP 2021)",
+					"doi": "10.1145/3460210.3493542",
+					"bibtex": "@inproceedings{Asprino2021a,  author = {Asprino, Luigi and Carriero, Valentina Anita and Presutti, Valentina},  title = {Extraction of Common Conceptual Components from Multiple Ontologies},  year = {2021},  isbn = {9781450384575},  doi = {10.1145/3460210.3493542},  booktitle = {Proceedings of the 11th on Knowledge Capture Conference},  pages = {185–192},  numpages = {8}  }",
+					"url": "https://doi.org/10.1145/3460210.3493542"
+				},
+				{
+					"id": "Asprino2021b",
+					"authors": "<b>L. Asprino</b>, V. A. Carriero, C. Colonna, V. Presutti",
+					"title": "OPLaX: annotating ontology design patterns at conceptual and instance level",
+					"inField": "  Proceedings of 12th Workshop on Ontology Design and Patterns (WOP2021)",
+					"doi": null,
+					"bibtex": "@inproceedings{Asprino2021b,  author = {Asprino, Luigi and Carriero, Valentina Anita and Colonna, Christian and Presutti, Valentina},  title = {OPLaX: annotating ontology design patterns at conceptual and instance level},  year = {2021},   booktitle = {Proceedings of 12th Workshop on Ontology Design and Patterns (WOP2021)}  }",
+					"url": "http://ceur-ws.org/Vol-3011/paper1.pdf"
+				},
+				{
+					"id": "Asprino2021c",
+					"authors": "<b>L. Asprino</b>,  L. Bulla, L. Marinucci, M. Mongiovì, V. Presutti",
+					"title": "A Large Visual Question Answering Dataset for Cultural Heritage",
+					"inField": "  Proceedings of 12th Workshop on Ontology Design and Patterns (WOP2021)",
+					"doi": null,
+					"bibtex": "@inproceedings{Asprino2021c,  author = {Asprino, Luigi and Bulla, Luana and Marinucci, Ludovica and Mongiovi, Misael and Presutti, Valentina},  title = {A Large Visual Question Answering Dataset for Cultural Heritage},  year = {2021},   booktitle = {Proceedings of The 7th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science (LOD 2021)}  }",
+					"url": null
+				},
+				{
+					"id": "Hammar2021",
+					"authors": "K. Hammar, C. Shimizu, H.K. McGinty, <b>L. Asprino</b>, V.A. Carriero",
+					"title": "WOP 2021: Workshop on Ontology Design and Patterns 2021: Proceedings of the 12th Workshop on Ontology Design and Patterns (WOP 2021) co-located with the 20th International Semantic Web Conference (ISWC 2021), online, October 24, 2021",
+					"inField": "  (Editor)",
+					"doi": null,
+					"bibtex": "@proceedings{Hammar2021,     editor = {Hammar, Karl and Shimizu, Cogan and McGinty, Hande K{\"u}ç{\"u}k and Asprino, Luigi and Carriero, Valentina Anita},     institution = {Jönköping University, Jönköping AI Lab (JAIL)},     pages = {80},     publisher = {CEUR-WP},     title = {WOP 2021: Workshop on Ontology Design and Patterns 2021 : Proceedings of the 12th Workshop on Ontology Design and Patterns (WOP 2021) co-located with the 20th International Semantic Web Conference (ISWC 2021), online, October 24, 2021},     series = {CEUR Workshop Proceedings},     number = {3011},     URL = {http://ceur-ws.org/Vol-3011/},     year = {2021}  }",
+					"url": null
+				},
 				{
 					"id": "Daga2021c",
 					"authors": "E. Daga, <b>L. Asprino</b>, R. Damiano, B. Diaz Agudo, A. Gangemi, T. Kuflik, A. Lieto, A. M. Marras, D. Martinez Pandiani, P. Mulholland, S. Peroni, S. Pescarin, A. Wecker",
