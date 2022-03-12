@@ -37,7 +37,7 @@
 					"id": "Asprino2021c",
 					"authors": "<b>L. Asprino</b>,  L. Bulla, L. Marinucci, M. Mongiovì, V. Presutti",
 					"title": "A Large Visual Question Answering Dataset for Cultural Heritage",
-					"inField": "  Proceedings of 12th Workshop on Ontology Design and Patterns (WOP2021)",
+					"inField": "  Proceedings of The 7th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science (LOD 2021)",
 					"doi": null,
 					"bibtex": "@inproceedings{Asprino2021c,  author = {Asprino, Luigi and Bulla, Luana and Marinucci, Ludovica and Mongiovi, Misael and Presutti, Valentina},  title = {A Large Visual Question Answering Dataset for Cultural Heritage},  year = {2021},   booktitle = {Proceedings of The 7th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science (LOD 2021)}  }",
 					"url": null
